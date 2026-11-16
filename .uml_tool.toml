@@ -1,2 +1,2 @@
 [analysis]
-focus_paths = ["src/storage"]
+focus_paths = ["src/storage/compression"]
